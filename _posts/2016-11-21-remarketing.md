@@ -2,8 +2,8 @@
 layout: post
 title: "Làm thế nào để marketing trở lại khách hàng cũ"
 category : advertising
-tagline: "(P.2)"
-tags : [video, ads, online, marketing]
+tagline: ""
+tags : [ads, online, marketing ,advertising]
 ---
 
 {% include JB/setup %}

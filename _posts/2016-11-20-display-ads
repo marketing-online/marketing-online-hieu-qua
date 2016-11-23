@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Bài viết sử dụng Youtube html"
+category : advertising
+tagline: "(P.2)"
+tags : [video, ads, online, marketing]
+---
+
+{% include JB/setup %}
+
 ## Display ads là gì 
 Chúng ta sẽ tìm hiểu 
 - Display ads là gì?

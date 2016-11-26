@@ -9,7 +9,16 @@ h1 {font-size: 200%;}
 h2 {font-size: 160%;}
 h3 {font-size: 120%;}
 
-ul {list-style-type: disc;}
+ul {
+
+    display: block;
+    list-style-type: decimal;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
 
 .owl-carousel .owl-item img{
     width: 300px;

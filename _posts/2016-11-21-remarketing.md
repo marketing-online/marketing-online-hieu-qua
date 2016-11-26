@@ -8,7 +8,7 @@ tags : [ads, online, marketing ,advertising]
 
 {% include JB/setup %}
 
-# Làm thế nào để marketing trở lại khách hàng cũ?
+<!-- Làm thế nào để marketing trở lại khách hàng cũ? -->
 
 Chúng ta sẽ trả lời các câu hỏi sau đây
   - Remarketing là gì?

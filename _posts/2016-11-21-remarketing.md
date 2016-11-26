@@ -11,9 +11,10 @@ tags : [ads, online, marketing ,advertising]
 <!-- Làm thế nào để marketing trở lại khách hàng cũ? -->
 
 Chúng ta sẽ trả lời các câu hỏi sau đây
-- Remarketing là gì?
-- Làm sao để mang khách hàng trở lại khi họ đã sẵn sàng mua?
-- Tôi phải chuẩn bị  thế nào để có thể thực hiện remarketing 
+
+-Remarketing là gì?
+-Làm sao để mang khách hàng trở lại khi họ đã sẵn sàng mua?
+-Tôi phải chuẩn bị  thế nào để có thể thực hiện remarketing 
 
 ## Remarketing là gì?
 
@@ -28,10 +29,11 @@ Giả sử bạn đặt hàng một sản phẩm nhưng chưa kết thúc quá t
 ## Hãy tìm hiểu thêm
 
 Đây là cách mà remarketing hoạt động: Khi ghé thăm một website, một người có thể được gán cho một mã theo dõi gọi là "cookie". Cookie đó lưu trữ thông tin rằng người đó đã ghé site và thực hiện một số thao tác. Từ đó, bạn có thể quáng bá sản phẩm hoặc thương hiệu của mình đến khách hàng đó khi họ thăm những website khác. Đây là điều chung nhất về remarketing. Nhưng bạn cần phải chú ý đến 4 thành phần chính sau đây:
-1. Lượng khách đang online: bạn cần xem xét đáp ứng yêu cầu này từ các nhà cung cấp dịch vụ remarketing
-2. Khách hàng mục tiêu: bạn cần xem xét khách hàng nào cần remarketing để mang lại hiệu quả cao nhất cho kế hoạch bán hàng của bạn. 
-3. Tracking code (tag): bạn sẽ được cấp một mã theo dõi, và phải đặt nó ở mọi trang web mà bạn muốn theo dõi khách hàng của mình.
-4. Mẩu quảng cao online: bạn cần có mẩu quảng cáo online để hiện cho khách hàng bạn đã lựa chọn để cho họ xem. Chú ý tần suất hiển thị đủ để thu hút họ hơn là làm phiền.
+
+1.Lượng khách đang online: bạn cần xem xét đáp ứng yêu cầu này từ các nhà cung cấp dịch vụ remarketing
+2.Khách hàng mục tiêu: bạn cần xem xét khách hàng nào cần remarketing để mang lại hiệu quả cao nhất cho kế hoạch bán hàng của bạn. 
+3.Tracking code (tag): bạn sẽ được cấp một mã theo dõi, và phải đặt nó ở mọi trang web mà bạn muốn theo dõi khách hàng của mình.
+4.Mẩu quảng cao online: bạn cần có mẩu quảng cáo online để hiện cho khách hàng bạn đã lựa chọn để cho họ xem. Chú ý tần suất hiển thị đủ để thu hút họ hơn là làm phiền.
  
 ## Lập danh sách tiềm năng để tiến hành remarketing
 

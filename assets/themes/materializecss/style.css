@@ -9,15 +9,9 @@ h1 {font-size: 200%;}
 h2 {font-size: 160%;}
 h3 {font-size: 120%;}
 
-ul {
-
-    display: block;
+ul li {
     list-style-type: disc;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-    -webkit-padding-start: 40px;
+    margin-left: 20px;
 }
 
 .owl-carousel .owl-item img{

@@ -10,6 +10,7 @@ tags : [video, ads, online, marketing]
 
 ## Display ads là gì 
 Chúng ta sẽ tìm hiểu 
+
 - Display ads là gì?
 - Tại sao thông điệp hay lại rất quan trọng với một mẩu quảng cáo 
 - Cách tạo một mẩu quảng cáo hiệu quả
@@ -17,8 +18,9 @@ Chúng ta sẽ tìm hiểu
 Một mẩu quảng cáo hiện ra trong điện thoại hay website đôi khi nó giống như đang trò chuyện trực tiếp với chúng ta, thậm chí cứ như là nó có thể đọc tâm trí của mình. Đó là vì các mẩu quảng cáo hiển thị được chạy nhắm đến từng cá nhân và hiện các thông tin liên quan dựa trên hành vi online của người dùng đó. 
 
 Có nhiều hình thức quảng cáo hướng đến phạm vi rộng hơn về người dùng như nam lứa tuổi từ 18-45 thích thể thao. Mẩu quảng cáo hiển thị không chỉ có một hình thức duy nhất, nó có thể gồm chữ, hình ảnh động, nhiều hình dạng, gồm cả âm thanh và video để có thể tiếp cận và tương tác với người dùng. Tuy nhiên cần phân định rõ ràng:
-  - Mẩu quảng cáo hiển thị dùng để giới thiệu sản phẩm nội dung cụ thể đến đối tượng cụ thể
-  - Mẩu quảng cáo thương hiệu và quảng cáo trên mạng xã hội hướng đến người dùng ở phạm vi rộng lớn.
+
+- Mẩu quảng cáo hiển thị dùng để giới thiệu sản phẩm nội dung cụ thể đến đối tượng cụ thể
+- Mẩu quảng cáo thương hiệu và quảng cáo trên mạng xã hội hướng đến người dùng ở phạm vi rộng lớn.
 
 Quảng cáo hiển thị là cách hiệu quả và định vị chính xác khách hàng tiềm năng của bạn, cho họ biết về sản phẩm và tăng nhận diện thương hiệu.
 
@@ -27,9 +29,9 @@ Bạn có thể dùng Google Ads Network  và Yahoo Bing Network để chạy qu
 ## Thông điệp 
 Thông điệp không chỉ là "buy now" mà phải mang nhiều ý nghĩa hơn thế. Không phải tất cả người dùng đều sẵn sàng mua ngay, do đó bạn nên tạo các thông điệp nhắm vào các khách ghé thăm theo 3 giai đoạn:
 
-    - Nhận biết (Awareness): quảng bá tiếp cận số đông giải thích thương hiệu của mình.
-    - Xem xét (Consideration): quảng cáo tiếp cận khách ghe thăm đang có ý định mua hàng.
-    - Mua (Purchase): quảng cáo thúc giục cho người đã sẵn sàng mua.
+- Nhận biết (Awareness): quảng bá tiếp cận số đông giải thích thương hiệu của mình.
+- Xem xét (Consideration): quảng cáo tiếp cận khách ghe thăm đang có ý định mua hàng.
+- Mua (Purchase): quảng cáo thúc giục cho người đã sẵn sàng mua.
 
 ## Hình ảnh
 Người dùng lướt net không phải để xem quảng cáo, do đó nên tạo hình ảnh thật bắt mắt để thu hút sự chú ý của họ. Người dùng thích xem hình ảnh về con người và sản phẩm thực. Đôi khi, hình ảnh thực tạo sự tin tưởng cao hơn những lời hoa mỹ. Nhưng hãy nhớ lồng logo thương hiệu của bạn vào để giữ độ tin cậy cao. Bạn có thể tạo hình ảnh động, nhờ các hiệu ứng chuyển động chuyển hướng khách hàng vào các mục quảng cáo. Tất nhiên bạn có thể (remarketing)[http://wikipedia.org/remarketing] để nhắc khách hàng rằng họ đã từng xem sản phẩm tương tự. 
@@ -51,9 +53,9 @@ Hãy nhớ rằng cho dù mẩu quảng cáo đã hiệu quả, bạn vẫn ph�
 
 Nào hãy bắt đầu tạo mẩu quảng cáo của chính mình.
 
-    1. Tên sản phẩm thương hiệu của bạn là gì? VD: Digitalife
-    2. Bạn cung cấp gì? VD: Landing page
-    3. Bạn nhắm vào khách hàng trong giai đoạn mua sắm nào? (Awareness, Consideration, Purchase)
+1. Tên sản phẩm thương hiệu của bạn là gì? VD: Digitalife
+2. Bạn cung cấp gì? VD: Landing page
+3. Bạn nhắm vào khách hàng trong giai đoạn mua sắm nào? (Awareness, Consideration, Purchase)
  
 Các mẩu quảng cáo của bạn có thể như bên dưới. 
 
